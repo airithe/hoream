@@ -1,0 +1,2 @@
+baseurl: /hoream
+exclude: ['README.md']
